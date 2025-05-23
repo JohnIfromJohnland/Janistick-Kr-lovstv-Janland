@@ -3,45 +3,7 @@
 <!DOCTYPE html><html lang="cs">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Janistické Království Janland</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: linear-gradient(to right, #f7f1e3, #d1d8e0);
-      color: #2c3e50;
-      margin: 0;
-      padding: 20px;
-    }
-    header {
-      background-color: #f1c40f;
-      padding: 20px;
-      text-align: center;
-    }
-    h1 {
-      margin: 0;
-    }
-    section {
-      margin: 20px 0;
-    }
-    .flag {
-      width: 100%;
-      height: 50px;
-      display: flex;
-    }
-    .flag div {
-      flex: 1;
-    }
-    .zlata { background-color: gold; }
-    .stribrna { background-color: silver; }
-    .cervena { background-color: red; }
-    .fialova { background-color: purple; }
-    a {
-      color: #2980b9;
-    }
-  </style>
-</head>
-<body>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"
   <header>
     <h1>Janistické Království Janland</h1>
     <p>Motto: "Rovnováha korunuje krále. Král korunuje rovnováhu."</p>
